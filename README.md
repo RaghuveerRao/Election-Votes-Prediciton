@@ -10,6 +10,7 @@ Our team of exceptionally talented individuals recently won a data science compe
 * Appendix
   * [LinkedIn Blog Post](https://www.linkedin.com/pulse/predicting-votes-cast-data-science-competition-some-takeaways-rao/)
   * [Official Press Release](http://bit.ly/minne-mudac-page)
+  * [University Press Release](https://carlsonschool.umn.edu/news/msba-team-wins-2018-minnemudac-case-competition)
 
 ![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting2.jpeg)
 > Presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
