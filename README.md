@@ -1,6 +1,6 @@
 
-# Predicting votes cast at a data science competition 
-Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals across the midwest United States competed in this competition on a voter prediction problem.
+# Predicting votes cast at a data science competition
+Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals competed in this competition wherin teams predicted votes that would be cast for each political party in the 2018 minnesota midterm elections. 
 
 ## Index
 * [Executive Summary](https://github.com/RaghuveerRao/Election-Votes-Prediciton#the-data-science-challenge)
