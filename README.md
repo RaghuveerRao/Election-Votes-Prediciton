@@ -2,14 +2,17 @@
 # Predicting votes cast at a data science competition 
 Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals across the midwest United States competed in this competition on a voter prediction problem.
 
+## Index
+* [Executive Summary](https://github.com/RaghuveerRao/Election-Votes-Prediciton#the-data-science-challenge)
+* [Presentation](https://github.com/RaghuveerRao/Election-Votes-Prediciton/blob/master/Presentation.pdf)
+* [Clustering for data aggregation](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
+* [Predicting votes cast](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
+* Appendix
+  * [LinkedIn Blog Post](https://www.linkedin.com/pulse/predicting-votes-cast-data-science-competition-some-takeaways-rao/)
+  * [Official Press Release](http://bit.ly/minne-mudac-page)
+
 ![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting2.jpeg)
 > Presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
-
-## Index
-* [Presentation](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Presentation.pdf)
-* [Data set from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
-* [Descriptive Statistics](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
-* [Causal Inference Analysis](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Causal_Inference.md)
 
 ## The Data Science Challenge:
 
