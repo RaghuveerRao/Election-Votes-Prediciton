@@ -16,4 +16,4 @@ Next, we realized that we have over 100 features or columns and this data is onl
 
 To solve this challenge, we leveraged the K – Means clustering algorithm to find 10 similar districts in the United States for each of the 8 congressional districts in Minnesota based on demographic and political profile, increasing the number of observations (rows) ten-fold.
 
-![Recommendation differences](https://github.com/RaghuveerRao/Election-Votes-Prediciton/master/images/cluster.jpg)
+![Recommendation differences](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/cluster.jpg)
