@@ -2,7 +2,7 @@
 # Predicting votes cast at a data science competition 
 Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals across the midwest United States competed in this competition on a voter prediction problem.
 
-![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting1.jpeg)
+![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting2.jpeg)
 > Me presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
 
 ## Index
