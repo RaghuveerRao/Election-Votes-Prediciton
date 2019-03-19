@@ -3,7 +3,7 @@
 Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals competed in this competition wherin teams predicted votes that would be cast for each political party in the 2018 minnesota midterm elections. 
 
 ## Index
-* [Executive Summary](https://github.com/RaghuveerRao/Election-Votes-Prediciton#the-data-science-challenge)
+* [Executive Summary](#the-data-science-challenge)
 * [Presentation](https://github.com/RaghuveerRao/Election-Votes-Prediciton/blob/master/Presentation.pdf)
 * [Clustering for data aggregation](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
 * [Predicting votes cast](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
