@@ -3,7 +3,7 @@
 Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals across the midwest United States competed in this competition on a voter prediction problem.
 
 ![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting2.jpeg)
-> Me presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
+> Presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
 
 ## Index
 * [Presentation](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Presentation.pdf)
@@ -28,7 +28,7 @@ To solve this challenge, we leveraged the K – Means clustering algorithm to fi
 ![Clustering in action](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/cluster.jpg)
 > A Tableau illustration of similar districts in USA for each of the 8 congressional districts in Minnesota.
 
-##Analysis:
+## Analysis:
 
 Now that data is ready we applied Random Forest regression and apart from good accuracy this algorithm provided the following advantages:
 
