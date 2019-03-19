@@ -5,8 +5,8 @@ Our team of exceptionally talented individuals recently won a data science compe
 ## Index
 * [Executive Summary](#the-data-science-challenge)
 * [Presentation](https://github.com/RaghuveerRao/Election-Votes-Prediciton/blob/master/Presentation.pdf)
-* [Clustering for data aggregation](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
-* [Predicting votes cast](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
+* [Clustering for Data Aggregation](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
+* [Predicting Votes Cast](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
 * Appendix
   * [LinkedIn Blog Post](https://www.linkedin.com/pulse/predicting-votes-cast-data-science-competition-some-takeaways-rao/)
   * [Official Press Release](http://bit.ly/minne-mudac-page)
