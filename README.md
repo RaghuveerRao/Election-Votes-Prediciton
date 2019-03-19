@@ -2,6 +2,15 @@
 # Predicting votes cast at a data science competition 
 Our team of exceptionally talented individuals recently won a data science competition called Minne MUDAC 2018, organized by the MinneAnaltyics community held on 3rd November 2018. Graduate students and professionals across the midwest United States competed in this competition on a voter prediction problem.
 
+![Presenting](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/presenting1.jpeg)
+> Me presenting at the final leg of the competition. Part of the competition was to present complex analysis to audience of 200+ non-specialist professionals.
+
+## Index
+* [Presentation](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Presentation.pdf)
+* [Data set from Kaggle](https://www.kaggle.com/pavansubhasht/ibm-hr-analytics-attrition-dataset )
+* [Descriptive Statistics](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Descriptive_Statistics.md)
+* [Causal Inference Analysis](https://github.com/RaghuveerRao/Effect-of-Overtime-on-Attrition/blob/master/Causal_Inference.md)
+
 ## The Data Science Challenge:
 
 The challenge was to investigate the factors/characteristics that influence the number of voters who would cast a ballot in the 2018 Minnesota elections, and predict the number of votes that will be cast for each party (Democrat, Republican & Independent) for the 8 Congressional Districts, the governor and the 2 senate seats of Minnesota. That is a total of 33 variables to predict [(8 + 2 + 1) x 3], and each team was given 8 minutes to present to a panel of 3 judges, comprised of data science, business and academic professionals.
@@ -16,4 +25,16 @@ Next, we realized that we have over 100 features or columns and this data is onl
 
 To solve this challenge, we leveraged the K – Means clustering algorithm to find 10 similar districts in the United States for each of the 8 congressional districts in Minnesota based on demographic and political profile, increasing the number of observations (rows) ten-fold.
 
-![Recommendation differences](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/cluster.jpg)
+![Clustering in action](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/cluster.jpg)
+> A Tableau illustration of similar districts in USA for each of the 8 congressional districts in Minnesota.
+
+##Analysis:
+
+Now that data is ready we applied Random Forest regression and apart from good accuracy this algorithm provided the following advantages:
+
+Random forest in an ensemble of decision trees. An Ensemble model is one in which the classifier is constructed by combining several different Independent base classifiers (decision trees in this case). The ensemble classifier then aggregates the individual predictions to combine them into a final prediction. Also, when different models with different error rates are combined, the error rate on the combined model generally reduces significantly.
+We wanted to understand which characteristics in the data the model was relying on the most for its prediction: to identify what is causing voters to vote for Republican, Democrat or Independent. Random forest, being a tree-based method of regression, lets us extract feature importance from the data that the model believes to be significant in predicting whether a congressional district will vote for a democrat or a republican candidate.  
+
+![Random Forest Working](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/random-forests.png)
+> Illustrative image of Random Forest algorithm, [refer here for image source and more details]( https://analyticsdefined.com/introduction-random-forests/).
+
