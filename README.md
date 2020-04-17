@@ -40,5 +40,4 @@ Random forest in an ensemble of decision trees. An Ensemble model is one in whic
 We wanted to understand which characteristics in the data the model was relying on the most for its prediction: to identify what is causing voters to vote for Republican, Democrat or Independent. Random forest, being a tree-based method of regression, lets us extract feature importance from the data that the model believes to be significant in predicting whether a congressional district will vote for a democrat or a republican candidate.  
 
 ![Random Forest Working](https://github.com/RaghuveerRao/Election-Votes-Prediciton/raw/master/images/random-forests.png)
-> Illustrative image of Random Forest algorithm, [refer here for image source and more details]( https://analyticsdefined.com/introduction-random-forests/).
 
